@@ -27,3 +27,10 @@
 - **Trash Status**: Empty (all useful resources preserved in `D:\YT-Clipper\resources\emojis/`).
 - **Notification Commitment**: Active (Rule §6 locked — agent must ALWAYS notify immediately with live link and details upon upload completion).
 - **Blacklist Ledger**: Active in `docs/CLIPS_REGISTRY.md` (8 moments blacklisted, zero duplication).
+- **Official Clean GitHub Repository**: [https://github.com/Rushabh9033/YT-Clipper](https://github.com/Rushabh9033/YT-Clipper) (Public, 52 clean files, zero creator videos, zero cookies).
+- **YT-Clipper 2.0 AI Video Production Studio**:
+  - Adopted: `docs/PRD.md`, `docs/DECISIONS.md` (DECISION-002), `docs/TASKS.md`.
+  - **TASK-001 (Non-Destructive Multitrack Timeline Engine)**: **VERIFIED & OPERATIONAL** (`scripts/timeline_compiler.py`).
+  - Tested: Rendered 1080x1920 @ 60fps vertical master short from JSON project in **1.90s** (~250 FPS).
+  - Non-Destructive Editing Tested: Modified subtitle copy, colors, and hook text in `v2_test_project.json` and re-compiled in **2.29s** without re-transcribing.
+- **Single Master Distribution Document**: [YT-Clipper.md](file:///C:/Users/RUSHABH/Desktop/YT-Clipper.md) (92 KB on Desktop). Single clean markdown file combining all 13 source scripts and documentation, zero base64 or binary gibberish.

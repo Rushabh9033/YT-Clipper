@@ -1,0 +1,28 @@
+# Environments
+.env
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Browser profile and personal credentials
+resources/browser_profile/
+
+# Intermediate media & trash
+trash/
+*.wav
+*.ass
+*.tmp
+
+# Raw large media deliverables (keep git repo lightweight under 10MB)
+*.mp4
+*.mkv
+*.ts
+
+# Operating System Files
+.DS_Store
+Thumbs.db
