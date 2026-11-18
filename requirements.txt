@@ -1,0 +1,9 @@
+# YT-Clipper — Automated Viral Shorts Engine Requirements
+playwright>=1.40.0
+pillow>=10.0.0
+yt-dlp>=2024.08.01
+openai-whisper>=20231117
+faster-whisper>=1.0.0
+torch>=2.0.0
+numpy>=1.24.0
+psutil>=5.9.0
